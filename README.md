@@ -7,7 +7,7 @@ This project lets you control the Dino game using real-time Digital Image Proces
 * The red line in the middle of the screen serves as the jump threshold.
 * You can quit the program anytime by pressing the ‘q’ key on your keyboard.
 
-## Downloads needed-
+## Pre-requisites-
 1. Make sure you have Python installed on your system.
 2. Install the required dependencies by running:
    pip install opencv-python mediapipe pyautogui
